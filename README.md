@@ -7,3 +7,8 @@
 02. Gallery Intent
 03. Alert Dialogue
 04. List View
+# Reference Projects
+01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
+02. MVVM_With_Volly: https://github.com/KhairuI/MVVM_With_Volly
+03. Room_SQLite_CRUD_Function: https://github.com/KhairuI/Room_SQLite_CRUD_Function
+04. SQLite-CRUD-Fuction: https://github.com/KhairuI/SQLite-CRUD-Fuction
